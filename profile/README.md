@@ -1,7 +1,8 @@
 # SINTEF Robotics and Control
 
-Welcome to the GitHub page for the [Robotics and Control group, Mathematics and Cybernetics department at SINTEF Digital](https://www.sintef.no/en/digital/departments/mathematics-and-cybernetics/robotics-and-control/). For more details on us, please visit our webpage.
+Welcome to the GitHub organization for the Robotics and Control group at SINTEF Digital.
+Read more about our projects on our [webpage](https://www.sintef.no/en/digital/departments/mathematics-and-cybernetics/robotics-and-control/).
 
 ## Contact
 
-Please contact [Andreas Reason Dahl, Research Manager](mailto:andreas.dahl@sintef.no).
+Please contact [Andreas Reason Dahl](mailto:andreas.dahl@sintef.no), Research Manager.
