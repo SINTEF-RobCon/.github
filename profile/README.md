@@ -8,3 +8,5 @@ Read more about our projects on our [webpage](https://www.sintef.no/en/digital/d
 
 Please contact [Andreas Reason Dahl](mailto:andreas.dahl@sintef.no), Research Manager.
 -->
+
+![Inachus snake robot prototype](img/sintefrobot-3662.webp)
