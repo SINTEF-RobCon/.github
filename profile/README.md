@@ -9,6 +9,7 @@ As a part of our contract research, we also develop open source software. <!-- T
 
 | Software | Description |
 |------|-------------|
+| [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) | An open Modelica library for dynamic modelling of hydrogen and hybrid energy systems. It brings together electrochemical, electrical, fluid, thermal, control, and vehicle models, with examples ranging from PEM fuel cell vehicles to ammonia cracking. |
 | [drone_sim](https://github.com/SINTEF/rpas-simulator) | A skeleton for drone swarm software based on [SEN](https://github.com/airbus/sen). Partners build and test their own SEN components on top of it. The simulator is there to exercise the skeleton: it lets a component run in a realistic multi-drone setup before it goes onto a real vehicle. |
 
 <!-- Hidden for now, but might be needed later:
